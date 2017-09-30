@@ -1,17 +1,17 @@
-#bio-image {max-width: 329px;
+#bio-image {max-width: 100%;
 height:auto;
 }
 
-#li-index {width: 55px;
-height: 55px;
+#li-index {width: 100%;
+height: auto;
 margin: auto 20px;}
 
-#gh-index {width: 55px;
-height: 55px;
+#gh-index {max-width: 100%;
+height: auto;
 margin-right: 20px;}
 
-#so-index {width: 50px;
-height: 50px;
+#so-index {max-width: 100%;
+height: auto;
 position: relative;
 top: 3px;}
 
@@ -51,3 +51,69 @@ bottom: 150px;
 padding: 20px;
 text-align: center;
 width: 300px;}
+
+#jason {color: #272b30;
+z-index: 5}
+
+.highh {background-color: #c8c8c8;
+z-index: 1}
+
+a:link#linkss {color: #272b30;
+    text-decoration: none;}
+    
+    a:visited#linkss {color: #7E8A99;
+    text-decoration: none;}
+    
+    a:hover#linkss {background-color: #6CFBFF;
+    text-decoration: none;}
+    
+    a:active#linkss {color: black;
+    text-decoration: none;}
+
+a:link#ind {color: #272b30;
+        text-decoration: none;}
+        
+        a:visited#ind {color: #7E8A99;
+        text-decoration: none;}
+        
+        a:hover#ind {background-color: #6CFBFF;
+        text-decoration: none;}
+        
+        a:active#ind {color: black;
+        text-decoration: none;}
+
+a:link#port {color: #272b30;
+            text-decoration: none;}
+            
+        a:visited#port {color: #7E8A99;
+            text-decoration: none;}
+            
+        a:hover#port {background-color: #6CFBFF;
+            text-decoration: none;}
+            
+        a:active#port {color: black;
+            text-decoration: none;}
+
+a:link#cont {color: #272b30;
+                text-decoration: none;}
+                
+                a:visited#cont {color: #7E8A99;
+                text-decoration: none;}
+                
+                a:hover#cont {background-color: #6CFBFF;
+                text-decoration: none;}
+                
+                a:active#cont {color: black;
+                text-decoration: none;}
+
+                a:link#act {color: black;
+                    text-decoration: none;}
+                    
+                    a:visited#act {color: black;
+                    text-decoration: none;}
+                    
+                    a:hover#act {background-color: #6CFBFF;
+                    text-decoration: none;}
+                    
+                    a:active#act {color: black;
+                    text-decoration: none;}
