@@ -33,19 +33,19 @@ margin-right: 20px;
 position: relative;
 top: 3px}
 
-#giraffe {max-width: 300px;
+#giraffe {max-width: 100%;
 height: auto;}
 
-#bar {max-width: 300px;
+#bar {max-width: 100%;
 height: auto;}
 
-#city {max-width: 300px;
+#city {max-width: 100%;
 height: auto;}
 
-#turn {max-width: 300px;
+#turn {max-width: 100%;
     height: auto;}
 
-#swing {max-width: 300px;
+#swing {max-width: 100%;
     height: auto;}
 
 .llabell {background-color: #c8c8c8;
@@ -54,7 +54,7 @@ color: #272b30;
 bottom: 150px;
 padding: 20px;
 text-align: center;
-width: 300px;}
+max-width: 100%;}
 
 #jason {color: #272b30;
 z-index: 5}
