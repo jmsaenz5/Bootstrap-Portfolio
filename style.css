@@ -1,8 +1,53 @@
 #bio-image {max-width: 329px;
-height:auto;}
+height:auto;
+}
 
-#li-index {max-width: 50px;
+#li-index {width: 55px;
+height: 55px;
+margin: auto 20px;}
+
+#gh-index {width: 55px;
+height: 55px;
+margin-right: 20px;}
+
+#so-index {width: 50px;
+height: 50px;
+position: relative;
+top: 3px;}
+
+#li-con {width: 55px;
+height: 55px;
+margin: auto 20px;}
+
+#gh-con {width: 55px;
+height: 55px;
+margin-right: 20px;}
+
+#so-con {width: 50px;
+height: 50px;
+margin-right: 20px;
+position: relative;
+top: 3px}
+
+#giraffe {max-width: 300px;
 height: auto;}
 
-#gh-index {max-width: 50px;
+#bar {max-width: 300px;
 height: auto;}
+
+#city {max-width: 300px;
+height: auto;}
+
+#turn {max-width: 300px;
+    height: auto;}
+
+#swing {max-width: 300px;
+    height: auto;}
+
+.llabell {background-color: #c8c8c8;
+color: #272b30;
+    position: relative;
+bottom: 150px;
+padding: 20px;
+text-align: center;
+width: 300px;}
